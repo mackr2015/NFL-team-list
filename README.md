@@ -2,7 +2,6 @@
 
 
 - NFL Teams plugins is created from the public API and diplays teams list on the front end using shortcode. 
-- 
 
 
 ### Install instruction
