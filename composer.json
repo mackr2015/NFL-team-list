@@ -1,0 +1,17 @@
+{
+    "name": "mackraicevic/nfl-teams",
+    "description": "Simple API WP plugin to retrieve API data of NFL Teams",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Mack Raicevic",
+            "email": "info@mackraicevic.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
